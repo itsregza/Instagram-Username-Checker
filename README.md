@@ -1,10 +1,5 @@
 <h1 align="center">IG Username Checker</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/instagram-username%20checker-E4405F?logo=instagram&logoColor=white">
-</p>
-
 <p align="center">Check and find Instagram name availabilities. </p>
 
 ## Setup
