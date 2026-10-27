@@ -31,3 +31,7 @@ Available usernames get saved to `available.txt`.
 ## Notes
 
 - If you run proxyless it'll likely be rate limited after like 5 checks.
+
+## Connect
+- Discord - itsregza
+- Email - itsregza@gmail.com
